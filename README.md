@@ -37,3 +37,50 @@ class AlFateh {
   };
 }
 
+
+
+
+<hr>
+
+<h3 align="left">🧠 A Thought to Code By</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <i>"It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."</i><br>
+  — <b>Sherlock Holmes</b>
+</p>
+
+<hr>
+
+<img align="right" height="250" width="375" alt="coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+<h3>🧑‍💻 About Me</h3>
+
+<ul>
+  <li>⚡ Electrical Engineering student with a deep interest in <b>technology, electronics, and engineering systems</b>.</li>
+  <li>🧠 Currently building strong foundations in <b>C, C++, Dart, Flutter, and computer systems</b>.</li>
+  <li>🌐 Learning <b>networking, operating systems, and how things work internally</b>.</li>
+  <li>🔍 I believe in <b>understanding concepts, not just using tools</b>.</li>
+  <li>🚀 Ambitious, disciplined, and always improving step by step.</li>
+  <li>💬 You can ask me about <b>programming, computers, or technical concepts</b>.</li>
+</ul>
+
+<h3>📫 Connect with Me</h3>
+
+<ul>
+  <li>📱 Telegram: <a href="https://t.me/Alfatih77424">https://t.me/Alfatih77424</a></li>
+  <li>📘 Facebook: <a href="https://www.facebook.com/alfatih8171">https://www.facebook.com/alfatih8171</a></li>
+  <li>📸 Instagram: <a href="https://www.instagram.com/alfatihbabik.er/">https://www.instagram.com/alfatihbabik.er/</a></li>
+</ul>
+
+<h3>❤️ What I Enjoy</h3>
+
+<ul>
+  <li>💻 Exploring new technologies and understanding how systems work.</li>
+  <li>📚 Learning engineering and computer science topics deeply.</li>
+  <li>🛠️ Building small projects and improving them step by step.</li>
+  <li>🧩 Solving problems and thinking logically like an engineer.</li>
+</ul>
