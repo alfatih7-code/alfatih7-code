@@ -1,16 +1,8 @@
-<div align="center">
+<div align="center" width="50">
 
-# 👋 Hi, I'm Al-Fateh Babiker (الفاتح بابكر)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<!-- Image 1: Working desk illustration -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="45%" />
-
-<br><br>
-
-<!-- Image 2: Animated coder -->
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="45%" />
-
-</div>
 
 🎯 Aspiring Technologist | ⚡ Electrical Engineering Student | 👨‍💻 Software & Hardware Enthusiast | 📱 Flutter Developer  
 
