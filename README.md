@@ -49,22 +49,7 @@ class AlFateh {
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love breaking complex systems into simple understandable parts.<br>
 
-<div align="center" >
-<a href="https://github.com/alfatih7-code">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&theme=tokyonight" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfatih7-code&layout=compact&theme=tokyonight" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&hide_rank=true&theme=tokyonight" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&theme=tokyonight" >
-
-</details>
-  
 <hr>
 
 <b>Code Cycle</b><br>
