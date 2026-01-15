@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-
+<h1> # 👋 Hi, I'm El-Fatih Babiker (الفاتح بابكر)</h1>
 🎯 Aspiring Technologist | ⚡ Electrical Engineering Student | 👨‍💻 Software & Hardware Enthusiast | 📱 Flutter Developer  
 
 I am a highly motivated and ambitious Electrical Engineering student with a deep passion for **technology, computers, electronics, and engineering systems**.  
