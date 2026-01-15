@@ -1,6 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm El-Fatih Babiker (الفاتح بابكر)
+# 👋 Hi, I'm Al-Fateh Babiker (الفاتح بابكر)
+
+<!-- Image 1: Working desk illustration -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="45%" />
+
+<br><br>
+
+<!-- Image 2: Animated coder -->
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="45%" />
+
+</div>
 
 🎯 Aspiring Technologist | ⚡ Electrical Engineering Student | 👨‍💻 Software & Hardware Enthusiast | 📱 Flutter Developer  
 
