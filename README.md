@@ -38,25 +38,33 @@ class AlFateh {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I’m currently learning **C, C++, Dart & Flutter** and building strong foundations in **computer systems and engineering**.
-<img align="right" height="250" width="375" alt="coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /><br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I’m currently learning **C, C++, Dart & Flutter** and building strong foundations in **computer systems and engineering**.
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy exploring **Linux, systems, and how things work internally**. <br>
+<img align="right" height="250" width="375" alt="coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **programming, computers, or engineering topics**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" /> I enjoy exploring **Linux, systems, and how things work internally**.
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[AlFateh](https://t.me/Alfatih77424)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> Ask me about **programming, computers, or engineering topics**.
 
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love breaking complex systems into simple understandable parts.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Find me on Telegram: **[AlFateh](https://t.me/Alfatih77424)**
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: I love breaking complex systems into simple understandable parts.
+
+---
 
 <div align="center">
   <img src="https://via.placeholder.com/900x300/000000/000000?text=+" width="100%" height="300">
 </div>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&theme=tokyonight" >
 
+<details>
+  <summary><b>More stats</b></summary>
+
+  <br>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&theme=tokyonight" />
 </details>
+
+
   
 <hr>
 
