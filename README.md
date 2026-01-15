@@ -6,7 +6,7 @@
 <h1> # 👋 Hi, I'm El-Fatih Babiker (الفاتح بابكر)</h1>
 
 ```dart
-// My technical profile (compact)
+// My technical profile 
 
 class AlFateh {
   final status = "Electrical Engineering Student & Aspiring Technologist";
