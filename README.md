@@ -48,6 +48,7 @@ class AlFateh {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[AlFateh](https://t.me/Alfatih77424)**<br>
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love breaking complex systems into simple understandable parts.<br>
+
 <div style="height: 300px;"></div>
 <details>
   <summary>More stats</summary>
