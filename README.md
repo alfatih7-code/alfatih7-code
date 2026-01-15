@@ -38,11 +38,7 @@ class AlFateh {
 }
 ```
 
-<p style="margin-left:-40px">
-
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **C, C++, Dart & Flutter** and building strong foundations in **computer systems and engineering**.
-
-</p>
 <img align="right" height="250" width="375" alt="coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /><br>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy exploring **Linux, systems, and how things work internally**. <br>
