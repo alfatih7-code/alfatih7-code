@@ -37,39 +37,3 @@ class AlFateh {
   };
 }
 
-<hr>
-
-<h3 align="left">🧠 A Thought to Code By</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <i>"It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."</i><br>
-  — <b>Sherlock Holmes</b>
-</p>
-
-<hr>
-
-<img align="right" height="250" width="375" alt="coding" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-### 🧑‍💻 About Me (Personal)
-
-- ⚡ Electrical Engineering student with a deep interest in **technology, electronics, and engineering systems**.
-- 🧠 Currently building strong foundations in **C, C++, Dart, Flutter, and computer systems**.
-- 🌐 Learning **networking, operating systems, and how things work internally**.
-- 🔍 I believe in **understanding concepts, not just using tools**.
-- 🚀 Ambitious, disciplined, and always improving step by step.
-- 💬 You can ask me about **programming, computers, or technical concepts**.
-- 📫 Reach me on:
-  - Telegram: https://t.me/Alfatih77424
-  - Facebook: https://www.facebook.com/alfatih8171
-  - Instagram: https://www.instagram.com/alfatihbabik.er/
-
-### ❤️ What I Enjoy
-
-- 💻 Exploring new technologies and understanding how systems work.
-- 📚 Learning engineering and computer science topics deeply.
-- 🛠️ Building small projects and improving them step by step.
-- 🧩 Solving problems and thinking logically like an engineer.
