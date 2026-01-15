@@ -4,20 +4,43 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <h1> # 👋 Hi, I'm El-Fatih Babiker (الفاتح بابكر)</h1>
-// My technical profile 
+```dart
+// My technical profile
 
 class AlFateh {
   final status = "Electrical Engineering Student & Aspiring Technologist";
 
   final skills = {
-    "Learning": ["C", "C++", "Dart", "Flutter", "Systems", "Networking", "Electronics"],
-    "Languages": ["C", "C++", "Dart", "Python", "Java"],
-    "Platforms": ["Linux", "Windows"],
-    "Tools": ["VSCode", "Git"],
-    "Databases": ["Firebase", "SQLite"]
+    "Learning": [
+      "C",
+      "C++",
+      "Dart",
+      "Flutter",
+      "Systems",
+      "Networking",
+      "Electronics"
+    ],
+    "Languages": [
+      "C",
+      "C++",
+      "Dart",
+      "Python",
+      "Java"
+    ],
+    "Platforms": [
+      "Linux",
+      "Windows"
+    ],
+    "Tools": [
+      "VSCode",
+      "Git"
+    ],
+    "Databases": [
+      "Firebase",
+      "SQLite"
+    ]
   };
 }
-
 <!-- Main Coder GIF -->
 <img align="right" height="250" width="375" alt="Coder" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
