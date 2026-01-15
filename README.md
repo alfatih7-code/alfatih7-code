@@ -49,8 +49,9 @@ class AlFateh {
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love breaking complex systems into simple understandable parts.<br>
 
-<div style="height: 300px;"></div>
-<details>
+<div align="center">
+  <img src="https://via.placeholder.com/900x300/000000/000000?text=+" width="100%" height="300">
+</div>
   <summary>More stats</summary>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&theme=tokyonight" >
