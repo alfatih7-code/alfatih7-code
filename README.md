@@ -6,40 +6,16 @@
 <h1> # 👋 Hi, I'm El-Fatih Babiker (الفاتح بابكر)</h1>
 
 ```dart
-// My technical profile
+// My technical profile (compact)
 
 class AlFateh {
   final status = "Electrical Engineering Student & Aspiring Technologist";
 
   final skills = {
-    "Learning": [
-      "C",
-      "C++",
-      "Dart",
-      "Flutter",
-      "Systems",
-      "Networking",
-      "Electronics"
-    ],
-    "Languages": [
-      "C",
-      "C++",
-      "Dart",
-      "Python",
-      "Java"
-    ],
-    "Platforms": [
-      "Linux",
-      "Windows"
-    ],
-    "Tools": [
-      "VSCode",
-      "Git"
-    ],
-    "Databases": [
-      "Firebase",
-      "SQLite"
-    ]
+    "Learning": ["C", "C++", "Dart", "Flutter", "Systems", "Networking", "Electronics"],
+    "Languages": ["C", "C++", "Dart", "Python", "Java"],
+    "Platforms": ["Linux", "Windows"],
+    "Tools": ["VSCode", "Git"],
+    "Databases": ["Firebase", "SQLite"]
   };
 }
-
