@@ -21,6 +21,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
+```dart
 // My current technical profile
 
 class AlFateh {
@@ -51,7 +52,6 @@ class AlFateh {
     "Databases": ["Firebase", "SQLite"]
   };
 }
----
 
 <!-- Main Coder GIF -->
 <img align="right" height="250" width="375" alt="Coder" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
