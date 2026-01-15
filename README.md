@@ -48,15 +48,12 @@ class AlFateh {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[AlFateh](https://t.me/Alfatih77424)**<br>
 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love breaking complex systems into simple understandable parts.<br>
-<div align="center" >
-<a href="https://github.com/alfatih7-code">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&theme=tokyonight" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfatih7-code&layout=compact&theme=tokyonight" width="32.5%">
-<img src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&hide_rank=true&theme=tokyonight" width="32.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfatih7-code&theme=tokyonight" width="48%">
+<img src="https://github-profile-trophy.vercel.app/?username=alfatih7-code&theme=tokyonight&row=1&column=4" width="48%">
 
-</a>
-
+</div>
 <details>
   <summary>More stats</summary>
   
