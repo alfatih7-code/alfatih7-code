@@ -42,6 +42,7 @@ class AlFateh {
     ]
   };
 }
+
 <!-- Main Coder GIF -->
 <img align="right" height="250" width="375" alt="Coder" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
