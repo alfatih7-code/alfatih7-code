@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Al-Fateh Babiker (الفاتح بابكر)
+# 👋 Hi, I'm El-Fatih Babiker (الفاتح بابكر)
 
 🎯 Aspiring Technologist | ⚡ Electrical Engineering Student | 👨‍💻 Software & Hardware Enthusiast | 📱 Flutter Developer  
 
@@ -11,37 +11,25 @@ I believe in **discipline, continuous learning, and practical work**. I do not j
 
 ---
 
+<!-- Main Coder GIF -->
 <img align="right" height="250" width="375" alt="Coder" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ---
 
-## 🧠 About Me
-
-- ⚡ Electrical Engineering student with strong interest in **technology and engineering**
-- 💻 Passionate about **computers, software systems, and hardware systems**
-- 🔌 Interested in **electronics, electrical systems, and embedded concepts**
-- 🌐 Learning **networks, systems, and infrastructure concepts**
-- 📱 Learning **application design and development using Flutter & Dart**
-- 💡 Building strong foundations in **C and C++**
-- 🧠 Learning technology in a **structured, professional, and deep way**
-- 🛠️ I enjoy **building, testing, analyzing, and improving systems**
-- 🐧 Linux user
-- 🚀 Ambitious, disciplined, persistent, and highly motivated to grow in technology and engineering
+<!-- Happy coder on chair -->
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="0"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="45%" />
 
 ---
 
-## 🛠️ Technical Focus
+<p>
+<img src="https://komarev.com/ghpvc/?username=alfatih7-code&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-### 👨‍💻 Core Learning Areas
-- Programming (C, C++, Dart, Python, Java)
-- Mobile Application Development (Flutter)
-- Software Design & Engineering Principles
-- Computer Systems & Operating Systems
-- Networking Fundamentals
-- Electronics & Electrical Systems
-- Problem Solving & System Thinking
+---
 
-### 🧰 Tools & Technologies
+## 🚀 Tools I Use
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -49,51 +37,62 @@ I believe in **discipline, continuous learning, and practical work**. I do not j
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 🧭 My Learning Philosophy
+## 🧠 About Me
 
-- I focus on **fundamentals before tools**
-- I learn things **deeply, not superficially**
-- I believe in **building projects and practical systems**
-- I aim to become a **strong engineer, not just a programmer**
-- I am **persistent, disciplined, and ambitious**
-- I continuously improve myself step by step
-
----
-
-## 📌 What I'm Working On
-
-- 📚 Studying Electrical Engineering
-- 🧠 Building strong foundations in **C, C++, and computer systems**
-- 📱 Designing and developing applications using **Flutter & Dart**
+- ⚡ Electrical Engineering student
+- 💻 Passionate about **computers, technology, and engineering**
+- 🔌 Interested in **electronics, circuits, and electrical systems**
 - 🌐 Learning **networks and system concepts**
-- 🔌 Improving my understanding of **electronics and electrical systems**
-- 🛠️ Building small projects and experiments to apply what I learn
+- 📱 Learning **application design and development (Flutter & Dart)**
+- 💡 Building strong foundations in **C and C++**
+- 🧠 Learning technology in a **structured and professional way**
+- 🛠️ I enjoy **building, fixing, testing, and experimenting**
+- 🐧 Linux user
+- 🚀 Ambitious, persistent, disciplined, and highly motivated
 
 ---
 
-## 🌐 Connect With Me
+## 🔧 Me in Code 😄
 
-- 💻 GitHub: https://github.com/alfatih7-code  
-- 📱 Telegram: https://t.me/Alfatih77424  
-- 📘 Facebook: https://www.facebook.com/alfatih8171  
-- 📸 Instagram: https://www.instagram.com/alfatihbabik.er/  
+```dart
+class AlFateh {
+  final personality = [
+    "Ambitious",
+    "Persistent",
+    "Disciplined",
+    "Curious",
+    "Builder",
+    "Explorer",
+    "Problem Solver"
+  ];
 
----
+  final interests = [
+    "Computers",
+    "Technology",
+    "Electronics",
+    "Electricity",
+    "Engineering",
+    "Software",
+    "Hardware",
+    "Networks",
+    "Systems"
+  ];
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=alfatih7-code&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfatih7-code&layout=compact&theme=tokyonight" width="48%"/>
-
----
-
-> "I am not in a hurry to look professional. I am in a hurry to become truly professional." ⚡
-
-</div>
+  final currentLearning = [
+    "C",
+    "C++",
+    "Dart",
+    "Flutter",
+    "Computer Systems",
+    "Networking",
+    "Electronics"
+  ];
+}
